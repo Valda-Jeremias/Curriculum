@@ -1,0 +1,2 @@
+Descargue la carpeta Y la envia y abra desde el escritorio
+Ya que no me acuerdo como era para linkear las hojas de estilo css para que la "detecte" en cualquier espacio de almacenamiento de la computadora.
